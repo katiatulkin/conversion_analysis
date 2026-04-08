@@ -32,3 +32,32 @@ It consists of multiple relational tables, including sessions, customers, transa
 - [Behaviour Analysis](sql/03_behaviour.sql)
 - [Customer Value Analysis](sql/04_customer_value.sql)
 - [Product Analysis](sql/05_product_analysis.sql)
+
+## 📊 Visual Analysis
+
+#### 1. Funnel Overview
+<p align="center">
+  <img src="visuals/01_funnel.png" width="600"/>
+</p>
+
+#### 2. Scatter Plot Analysis
+<p align="center">
+  <img src="visuals/02_scatter_plot.png" width="600"/>
+</p>
+
+#### 3. User Behaviour Summary
+<p align="center">
+  <img src="visuals/03_user_behaviour_table.png" width="600"/>
+</p>
+
+#### 4. Customer Lifetime Value (CLTV)
+<p align="center">
+  <img src="visuals/04_cltv_bar_chart.png" width="600"/>
+</p>
+
+#### 5. Do Product Ratings and Reviews Impact Sales?
+
+<p align="center">
+  <img src="visuals/05B_total_revenue_bubble_chart.png" width="45%"/>
+  <img src="visuals/05A_avg_revenue_bubble_chart.png" width="45%"/>
+</p>
